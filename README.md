@@ -13,7 +13,7 @@ We had seven mandatory projects and one optional project. <br/>
 	* Logistic Regression
 	* K-Means
 5. [Assignment 5](https://github.com/mreza-kiani/AI-Projects/tree/master/CA5) was using CNN for ``CIFAR_10`` dataset with ``pytorch`` library.
-6. [Optional assignment]((https://github.com/mreza-kiani/AI-Projects/tree/master/Kaggle) was [Two Sigma Connect: Rental Listing Inquiries](https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries/) contest on ``Kaggle``
+6. [Optional assignment](https://github.com/mreza-kiani/AI-Projects/tree/master/Kaggle) was [Two Sigma Connect: Rental Listing Inquiries](https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries/) contest on ``Kaggle``
 
 **Note 1**: I used ``Google Colab`` for last three assignments.<br/>
 **Note 2**: My reports in jupyter files are written in Persian because it was a rule of our course.
