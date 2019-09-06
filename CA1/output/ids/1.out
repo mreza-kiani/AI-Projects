@@ -1,0 +1,52 @@
+---- Graph ----
+O O O X O O O O
+O O X O O X O O
+O O O O O O O O
+O O O O O O O X
+O O O O O O O O
+O O O O O O X O
+X X O O O O O O
+O O O O O O O X
+searching at deep 1
+duration: 0.001842
+searching at deep 2
+duration: 0.014473
+searching at deep 3
+duration: 0.088743
+searching at deep 4
+duration: 0.760483
+searching at deep 5
+duration: 4.819451
+searching at deep 6
+duration: 40.661638
+searching at deep 7
+---- Found ----
+O O O X O O O O
+O X O O O O O O
+O O O O X O O O
+O O O O O O O X
+O O O O O X O O
+X O O O O O O O
+O O X O O O O O
+O O O O O O X O
+--- Changes ---
+( 0 , 0 )
+( 0 , 1 )
+( -1 , 1 )
+( 0 , 0 )
+( 1 , 1 )
+( 1 , 0 )
+( 0 , -1 )
+( 0 , 1 )
+duration: 16.556766
+-- Durations --
+deep 1 -> 0.0
+deep 2 -> 0.001842
+deep 3 -> 0.014473
+deep 4 -> 0.088743
+deep 5 -> 0.760483
+deep 6 -> 4.819451
+deep 7 -> 40.661638
+deep 8 -> 16.556766
+sum -> 62.903396
+move count: 2454183

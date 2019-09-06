@@ -1,0 +1,247 @@
+---- Graph ----
+O O O X O O O O
+O O X O O X O O
+O O O O O O O O
+O O O O O O O X
+O O O O O O O O
+O O O O O O X O
+X X O O O O O O
+O O O O O O O X
+initial threats: 7
+move: 1 threats: 5 cost: 11
+move: 2 threats: 4 cost: 10
+move: 3 threats: 3 cost: 9
+move: 3 threats: 3 cost: 9
+move: 2 threats: 4 cost: 10
+move: 3 threats: 3 cost: 9
+move: 2 threats: 4 cost: 10
+move: 4 threats: 3 cost: 10
+move: 5 threats: 2 cost: 9
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 5 threats: 2 cost: 9
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 5 threats: 2 cost: 9
+move: 4 threats: 3 cost: 10
+move: 5 threats: 2 cost: 9
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 5 threats: 2 cost: 9
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 5 threats: 2 cost: 9
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 7 threats: 1 cost: 9
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 8 threats: 1 cost: 10
+move: 1 threats: 5 cost: 11
+move: 2 threats: 4 cost: 10
+move: 3 threats: 3 cost: 9
+move: 2 threats: 4 cost: 10
+move: 2 threats: 4 cost: 10
+move: 3 threats: 3 cost: 9
+move: 2 threats: 4 cost: 10
+move: 4 threats: 3 cost: 10
+move: 5 threats: 2 cost: 9
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 5 threats: 2 cost: 9
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 6 threats: 2 cost: 10
+move: 7 threats: 1 cost: 9
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 7 threats: 1 cost: 9
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 1 threats: 5 cost: 11
+move: 2 threats: 4 cost: 10
+move: 3 threats: 3 cost: 9
+move: 2 threats: 4 cost: 10
+move: 3 threats: 3 cost: 9
+move: 4 threats: 2 cost: 8
+move: 4 threats: 2 cost: 8
+move: 5 threats: 2 cost: 9
+move: 5 threats: 2 cost: 9
+move: 5 threats: 2 cost: 9
+move: 5 threats: 2 cost: 9
+move: 5 threats: 2 cost: 9
+move: 5 threats: 2 cost: 9
+move: 5 threats: 2 cost: 9
+move: 5 threats: 2 cost: 9
+move: 5 threats: 2 cost: 9
+move: 5 threats: 2 cost: 9
+move: 5 threats: 2 cost: 9
+move: 5 threats: 2 cost: 9
+move: 5 threats: 2 cost: 9
+move: 2 threats: 4 cost: 10
+move: 3 threats: 3 cost: 9
+move: 4 threats: 2 cost: 8
+move: 3 threats: 3 cost: 9
+move: 5 threats: 2 cost: 9
+move: 5 threats: 2 cost: 9
+move: 2 threats: 4 cost: 10
+move: 3 threats: 3 cost: 9
+move: 2 threats: 4 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 7 threats: 1 cost: 9
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 7 threats: 1 cost: 9
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 7 threats: 1 cost: 9
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 7 threats: 1 cost: 9
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 7 threats: 1 cost: 9
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 6 threats: 2 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 4 threats: 3 cost: 10
+move: 8 threats: 1 cost: 10
+move: 8 threats: 1 cost: 10
+---- Found ----
+O O O X O O O O
+O X O O O O O O
+O O O O X O O O
+O O O O O O O X
+O O O O O X O O
+X O O O O O O O
+O O X O O O O O
+O O O O O O X O
+--- Changes ---
+( 0 , 0 )
+( 0 , 1 )
+( -1 , 1 )
+( 0 , 0 )
+( 1 , 1 )
+( 1 , 0 )
+( 0 , -1 )
+( 0 , 1 )
+duration: 0.495325

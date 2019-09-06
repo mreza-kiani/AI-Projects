@@ -1,0 +1,59 @@
+---- Graph ----
+O O O O X O O O
+O O O O O O O O
+O X O O O X O O
+O O O O O O X O
+O O O O O O O O
+O X O O O O O O
+X O O O X O O O
+O O O O O O X O
+level 0 started
+ended
+duration: 0.000281
+level 1 started
+ended
+duration: 0.00205
+level 2 started
+ended
+duration: 0.014929
+level 3 started
+ended
+duration: 0.121081
+level 4 started
+ended
+duration: 1.171928
+level 5 started
+ended
+duration: 8.306155
+level 6 started
+ended
+duration: 28.890286
+---- Found ----
+O O O O O X O O
+O O X O O O O O
+O O O O X O O O
+O O O O O O O X
+X O O O O O O O
+O O O X O O O O
+O X O O O O O O
+O O O O O O X O
+--- Changes ---
+( 0 , -1 )
+( 1 , -1 )
+( 0 , 1 )
+( 0 , -1 )
+( 1 , 1 )
+( 0 , -1 )
+( 1 , 1 )
+( 0 , 0 )
+move count: 1127177
+-- Durations --
+1 -> 0.000281
+2 -> 0.00205
+3 -> 0.014929
+4 -> 0.121081
+5 -> 1.171928
+6 -> 8.306155
+7 -> 28.890286
+8 -> 0.0
+sum -> 38.50671

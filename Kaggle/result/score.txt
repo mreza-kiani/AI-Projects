@@ -1,0 +1,5 @@
+username: mrezakiani
+final public score: 0.63271
+rank: This compition is closed and my submission doesn't appear in leaderboard. But with this score my rank would be: 1900 
+
+(The picture of my submission is attached as score_detail.png)
